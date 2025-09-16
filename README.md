@@ -62,5 +62,4 @@ If I had more time, I’d love to expand this with:
 
 - Syncing with a backend so tasks could be shared across devices
 
-Thanks for checking this out!
-– Rabia
+Thanks for checking this out! - Rabia
